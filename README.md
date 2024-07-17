@@ -3,7 +3,7 @@
 A Django-based web application designed to help students manage their studies effectively. The Student Study Portal includes features like user authentication, note-taking, homework management, and external search capabilities.
 
 ## Demo
-Check out the live demo [here](https://drive.google.com/file/d/1-JYWe1d8hxeOrrbX0W2cVGyo_DNNHoGp/view?usp=sharing).
+Check out the demo [here](https://drive.google.com/file/d/1-JYWe1d8hxeOrrbX0W2cVGyo_DNNHoGp/view?usp=sharing).
 
 ## Description
 The Student Study Portal is designed to help students organize their study materials and tasks. It offers features like note-taking, homework management, and integrated search capabilities to facilitate easy access to study resources.
